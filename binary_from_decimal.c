@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 void printBinaryTernary(int n) {
-    // Recursively call for higher bits and print the current bit using ternary operator
-    (n > 1) ? printBinaryTernary(n / 2) : 0; // Recursive step
-    printf("%d", n % 2); // Print the current bit
+    (n > 1) ? printBinaryTernary(n / 2) : 0;
+    printf("%d", n % 2);
 }
 
 int main() {
