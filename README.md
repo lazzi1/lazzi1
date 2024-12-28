@@ -12,10 +12,9 @@
 - ⚡ Fun fact : " lazzi1 loves exploring the universe of possibitilies ! "
 -  And also enjoy combining creativity with logic—whether it's debugging code or designing innovative engineering solutions.
 
--  📫 Let’s Connect
-
-        Feel free to connect with me to collaborate, share ideas, or discuss exciting projects!
-      - Email : matricpass2021@gmail.com
+-  📫 Let’s Connect : 
+   Feel free to connect with me to collaborate, share ideas, or discuss exciting projects!
+- E-mail : matricpass2021@gmail.com
 
 <!---
 lazzi1/lazzi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
